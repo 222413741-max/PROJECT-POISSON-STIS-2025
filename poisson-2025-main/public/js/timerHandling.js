@@ -1,0 +1,1 @@
+startTimer=function(t,n){var a,e,c,r=t;setInterval((function(){a=parseInt(r/3600,10),e=parseInt(r/60%60,10),c=parseInt(r%60,10),e=e<10?"0"+e:e,c=c<10?"0"+c:c,n.textContent="".concat(a,":").concat(e,":").concat(c),--r<0&&(r=0)}),1e3)};
