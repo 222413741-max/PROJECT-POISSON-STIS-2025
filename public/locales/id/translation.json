@@ -1,0 +1,160 @@
+{
+    "comingsoon": {
+        "message": "Nantikan sesuatu yang luar biasa!",
+        "submessage": "Sambil menunggu, kenapa tidak kita lihat yang satu ini!",
+        "subtitle": "Nantikan sesuatu yang luar biasa",
+        "countdown": {
+            "days": "Hari",
+            "hours": "Jam",
+            "minutes": "Menit",
+            "seconds": "Detik"
+        },
+        "teaser": {
+            "title": "Perjalananmu Dimulai di Sini!",
+            "subtitle": "Tonton teaser kami dan temukan dunia yang telah kami ciptakan untukmu"
+        },
+        "cta": {
+            "title": "Dari teaser menuju momen spesialmu...",
+            "subtitle": "Ciptakan adeganmu sendiri di Photobooth kami",
+            "button": "Mulai",
+            "loading": "Memuat..."
+        }
+    },
+    "landingpage": {
+        "title": "Apa itu ",
+        "intro": "Poisson Statistics Competition adalah acara tahunan yang diselenggarakan oleh UKM Forkas (Forum Informasi dan Kajian Statistik) bekerja sama dengan BEM Politeknik Statistika STIS. Acara ini terdiri dari tiga jenis kompetisi, yaitu Statistics Olympiad untuk mahasiswa S1 di seluruh Indonesia (Nasional), kompetisi Statistical Infographic untuk mahasiswa S1 di semua jurusan di berbagai universitas di seluruh dunia (Internasional), dan Official Statistics Challenge untuk siswa SMA di seluruh Indonesia (Nasional)."
+    },
+    "masuk": "Masuk",
+    "daftar": "Daftar",
+    "info-selengkapnya": "Info Selengkapnya",
+    "baca-selengkapnya": "Baca Selengkapnya",
+    "navlink": {
+        "Home": "Beranda",
+        "Competitions": "Kompetisi",
+        "Semnas": "Semnas",
+        "News": "Berita",
+        "FAQ": "FAQ",
+        "Gallery": "Galeri"
+    },
+    "section-title": {
+        "kompetisi": "KOMPETISI",
+        "semnas": "SEMINAR NASIONAL",
+        "berita": "BERITA",
+        "timeline": "LINIMASA",
+        "gallery": "GALERI"
+    },
+    "news": {
+        "unavailable": "Berita Belum Tersedia"
+    },
+
+    "semnas-topic": "Peran Statistik Resmi Negara dalam Membangun Ekosistem Ekonomi Digital dan Kreatif untuk Pembangunan Berkelanjutan",
+    "semnas-desc": "Seminar Nasional Official Statistics adalah seminar ilmiah rutin tahunan yang telah dilaksanakan oleh Politeknik Statistika STIS sejak tahun 2018, yang bertujuan untuk menghasilkan pemikiran yang solutif terhadap berbagai tantangan di bidang official statistics dan isu-isu strategis nasional, serta karya-karya inovatif dan adaptif sebagai respons terhadap perkembangan teknologi informasi dan sains data. Rangkaian kegiatan Seminar Nasional Official Statistics diawali dengan Call For Paper, seminar paralel, dan seminar panel. Kegiatan ini dibuka untuk umum tanpa pungutan biaya apapun.",
+
+    "STATISTICS OLYMPIAD": "STATISTICS OLYMPIAD",
+    "Menguji pemahaman dan penerapan statistika dalam kompetisi skala nasional": "Menguji pemahaman dan penerapan statistika dalam kompetisi skala nasional",
+    "STATISTICAL INFOGRAPHIC": "STATISTICAL INFOGRAPHIC",
+    "Representasi visual yang menyajikan informasi kompleks secara ringkas dan mudah dipahami": "Representasi visual yang menyajikan informasi kompleks secara ringkas dan mudah dipahami",
+    "OFFICIAL STATISTICS CHALLENGE": "OFFICIAL STATISTICS CHALLENGE",
+    "Pemahaman dalam mengkaji official statistics": "Pemahaman dalam mengkaji official statistics",
+
+    "news-date": {
+        "1": "5 Juni 2023",
+        "2": "10 Juni 2023",
+        "3": "15 Juni 2023",
+        "4": "20 Juni 2023"
+    },
+    "news-title": {
+        "1": "Perdana Hybrid : Opening Ceremony dan Tahap Penyisihan Olimpiade POISSON 2022",
+        "2": "Ada Apa di Semifinal Olimpiade POISSON 2022?",
+        "3": "Final Olimpiade dan Infografis POISSON 2022",
+        "4": "Closing Ceremony POISSON 2022 x Fantastis"
+    },
+    "news-desc": {
+        "1": "Pekan Olimpiade dan Infografis Nasional atau yang disebut dengan POISSON pada tahun 2022 telah dibuka. Tanda dibuka secara resminya kompetisi ini yakni dengan adanya Opening Ceremony POISSON 2022 yang diselenggarakan pada Sabtu, 27 Agustus 2022 . Untuk pertama kalinya, POISSON mengadakan event secara hybrid. Panitia, dosen pembina, dan beberapa undangan menghadiri acara secara langsung di Auditorium Politeknik Statistika STIS. Sedangkan, seluruh peserta lomba mengikuti secara dalam jaringan (daring) melalui media Zoom Meeting. Metode hybrid ini dipandang tepat karena mahasiswa Politeknik Statistika STIS sebagai panitia pelaksana kala itu sudah melangsungkan perkuliahan secara offline ke kampus sehingga memungkinkan untuk mengadakan event bersama di kampus. Acara ini berlangsung dari pagi pukul 08.00 WIB. Acara dimulai dengan pembukaan oleh Master of Ceremony (MC) dan doa. Kemudian, menyanyikan lagu Indonesia Raya. Acara selanjutnya adalah sambutan-sambutan. Pertama, sambutan dan sekaligus pembukaan Opening Ceremony oleh Wakil Direktur III Politeknik Statistika STIS yakni Bapak Ir. Agus Purwoto, M.Si. Kedua, sambutan dari Ketua Pelaksana POISSON 2022 yaitu Kak Muhammad Erza Lesmana. Ketiga, sambutan dari Ketua Senat Mahasiswa yang kala itu diwakilkan oleh Kak Athoillah Zakky Ramdhani sebagai Koordinator Udikbud. Beberapa dosen yang turut hadir dalam Opening Ceremony ini yakni Bapak Dr. Azka Ubaidillah, S.ST., M.Si. selaku dosen pendamping UKM Forkas periode 2022/2023 dan Ibu Siskarossa Ika Oktora, SST, M.Stat, selaku perwakilan undangan dari pihak dosen. Setelah itu, acara Opening Ceremony juga dihiasi dengan hiburan dari band Xbar dan Paduan Suara Excelsior Polstat STIS. Acara kemudian dilanjutkan dengan pengumuman mengenai babak pertama Olimpiade Statistika yaitu Babak Penyisihan yang akan dilakukan pada agenda siang hari. Opening Ceremony POISSON 2022 berlangsung dengan lancar. Seluruh pihak yang berkumpul di auditorium menyempatkan diri untuk mendokumentasikan momen tersebut dengan berfoto bersama. Agenda selanjutnya adalah Tahap Pertama Penyisihan Olimpiade Statistika. Tahap pertama dilakukan secara online melalui website POISSON. Peserta mengunduh soal kemudian mengerjakan soal dalam jangka waktu yang telah disediakan. Selanjutnya, peserta mengunggah jawaban pada sistem di dalam website POISSON. Acara penyisihan berjalan dengan lancar. Seluruh peserta mengerjakan dengan baik dan tepat waktu. Sistem website juga aman dan tidak ada kendala yang berarti.",
+        "2": "Tidak terasa pelaksanaan Olimpiade Statistika dalam Pekan Olimpiade dan Infografis Nasional atau POISSON 2022 telah dimulai. Tahap pertama adalah tahap penyisihan yang dilaksanakan pada Minggu, 28 Agustus 2022 dan tahap berikutnya yaitu semifinal yang dilaksanakan pada Minggu, 11 September 2022 pada pukul 09.00 s.d. 11.00 WIB . Terdapat 25 tim yang berhasil lolos ke tahap semifinal dan tentunya telah siap untuk bersaing dalam babak ini untuk merebutkan lima tempat di babak final perlombaan yang sangat dinanti. Pelaksanaan pada tahap semifinal ini sama dengan tahap penyisihan, yaitu dilakukan secara hybrid, dimana peserta akan mengerjakan secara online dan akan diawasi oleh panitia melalui zoom meeting. Acara dimulai pada pukul 08.00 WIB yang diawali dengan open gate peserta semifinal dan diikuti oleh pembukaan dan doa. Lalu terdapat pemberitahuan tentang breakout room dan LO dan pengerjaan semifinal dimulai. Saat mengerjakan soal, peserta memasuki ruang virtual Zoom Meeting sesuai dengan pembagian room yang sudah diberitahukan sebelumnya. Soal semifinal terbagi menjadi 5 grade yaitu grade A, grade B, grade C, grade D, dan grade E. Tiap grade memiliki bobot yang berbeda dimana soal dengan grade A memiliki bobot paling tinggi dan soal dengan grade E memiliki bobot paling rendah. Hasil dari pengerjaan para peserta tentunya akan dikoreksi oleh juri-juri yang berpengalaman dan keren tentunya. Pemberitahuan mengenai peserta yang lolos ke babak final akan diinformasikan melalui situs website Poisson dengan pemberitahuan lewat email dan grup WhatsApp pada Sabtu, 17 September 2022. pada tahap semifinal terdapat lima tim yang berhasil lolos ke babak final, yaitu tim Sukses PKL dari Politeknik Statistika STIS, tim skuymabarguys dari Institut Teknologi Sepuluh November, tim Ravenclaw dari IPB University, tim LeastSq dari Politeknik Statistika STIS, dan tim pure dari Politeknik Statistika STIS. Dengan babak semifinal yang berakhir, semangat dan antusiasme para peserta semakin membara untuk menghadapi babak final yang akan menjadi puncak kompetisi. Babak final ini akan menyajikan tantangan baru bagi para peserta dalam upaya mereka untuk memperebutkan piala dan gelar juara Olimpiade Statistika POISSON 2022. Acara ini menyoroti kehebatan peserta dalam mengolah data, mengungkapkan tren yang signifikan, dan memberikan wawasan yang berharga melalui statistika.",
+        "3": "Setelah seluruh peserta menunjukkan kemampuannya pada babak penyisihan dan semifinal, peserta kemudian berpindah pada babak selanjutnya yaitu babak final. Peserta pada babak final merupakan lima peserta terbaik pada cabang lomba olimpiade dan 10 peserta terbaik pada cabang lomba infografis. Babak final dari tiap-tiap cabang lomba tersebut telah dilaksanakan pada Sabtu, 1 Oktober 2022. Pada lomba olimpiade statistika, peserta yang mengikuti babak final diminta melakukan analisis data berdasarkan topik yang disediakan panitia. Data yang digunakan boleh berasal dari BPS maupun berasal dari badan resmi lainnya. Peserta diberikan waktu pengerjaan selama sepekan, kemudian hasil analisisnya dipresentasikan di hadapan dewan juri dalam bentuk PowerPoint selama 15 menit kemudian diikuti dengan sesi tanya jawab selama 15 menit pada hari babak final dilaksanakan. Pada babak final cabang lomba infografis, setiap tim menyiapkan presentasi mengenai infografis yang telah dibuat. Setiap tim melakukan presentasi selama 20 menit termasuk sesi tanya jawab. Selain melakukan presentasi, 10 karya terbaik dan video reels akan diunggah di akun instagram poisson untuk diambil juara favorit berdasarkan jumlah likes terbanyak. Peserta yang lolos yang kemudian berkompetisi pada babak final berasal dari berbagai perguruan tinggi di Indonesia. Pada cabang lomba olimpiade, lima tim yang lolos pada babak final di antaranya yaitu UGM dan UNS yang tiap-tiap universitas tersebut meloloskan satu tim, sedangkan tiga tim lainnya berasal dari Politeknik Statistika STIS. Untuk cabang lomba infografis, 10 tim yang berkompetisi pada babak final di antaranya yaitu dari UNS, UGM, Polstat STIS, dan beberapa perguruan tinggi lainnya. Pada kegiatan selanjutnya yaitu closing ceremony, setelah babak final terlaksana, diumumkan perguruan tinggi yang menjadi juara umum berdasarkan hasil perolehan juara pada cabang lomba olimpiade dan infografis.",
+        "4": "Pada Minggu, 2 Oktober 2022, tidak terasa tahapan Olimpiade Statistika dalam Pekan Olimpiade dan Infografis Nasional atau POISSON 2022 telah berakhir sejak dimulainya pada tanggal 27 Agustus 2022. Closing Ceremony POISSON 2023 berkolaborasi dengan acara Festival Akademik dan Seni Polstat STIS (Fantastis), yang merupakan kegiatan Charity Concert dan menjadi bagian dari perayaan Dies Natalis Polstat STIS ke-64. Acara ini dilaksanakan secara hybrid. Finalis, tamu undangan, serta mahasiswa Polstat STIS dapat menyaksikan secara langsung di Auditorium Polstat STIS, sementara masyarakat umum dan peserta yang berhalangan hadir dapat menyaksikan siaran langsung di kanal Youtube Dies Natalis Politeknik Statistika STIS. Acara pembukaan dimulai pada pukul 12.35 WIB oleh Master of Ceremony (MC), lalu dilanjutkan dengan sambutan-sambutan. Setelah itu, para hadirin disuguhkan dengan penampilan dari UKM kesenian Polstat STIS, seperti UKM tari Paradise, Paduan Suara Excelsior, serta band Xbar. Acara kemudian mencapai puncaknya pada pengumuman pemenang POISSON 2023 cabang lomba Olimpiade Statistika dan Infografis. Juara 3 cabang lomba Infografis diraih oleh tim Epsilon dari Polstat STIS, tim X-ponen dari UGM sebagai juara 2, dan GedhangKluthuk dari UNS sebagai juara pertama. Juara infografis favorit diperoleh tim X-ponen UGM, dengan perolehan likes terbanyak pada postingan Instagram @poisson_stis. Sementara pada cabang lomba Olimpiade Statistika, juara harapan 2 diraih oleh tim Pure dari Polstat STIS, diikuti oleh tim SkuyMabarGuys asal ITS sebagai juara harapan 1, lalu tim LeastSQ dari Polstat STIS sebagai juara 3, tim Ravenclaw dari IPB sebagai juara 2, dan tim Sukses PKL asal Polstat STIS sebagai juara pertama. Juara Best Analysist diperoleh tim Sukses PKL Polstat STIS. Berdasarkan banyaknya tim yang lolos sebagai juara, Polstat STIS meraih gelar juara umum pada POISSON 2022. Agenda berikutnya merupakan publikasi dari hasil pengumpulan donasi. Acara kemudian ditutup oleh Bapak Yunarso Anang, sekaligus menandai berakhirnya rangkaian lomba POISSON 2022."
+    },
+
+    "timeline-title": {
+        "1": "Pendaftaran Statistics Olympiad",
+        "2": "Pendaftaran Statistical Infographic",
+        "3": "Pendaftaran Official Statistics Challenge",
+        "4": "Tahap I Infografis: Penyisihan (Pengumpulan Karya)",
+        "5": "Seminar Nasional (SEMNAS)",
+        "6": "Opening Ceremony",
+        "7": "Tahap I Olimpiade: Penyisihan",
+        "8": "Tahap I OSC: Penyisihan",
+        "9": "Pengumuman Tahap I OSC",
+        "10": "Pengumuman Tahap I Olimpiade",
+        "11": "Pengumuman 10 Besar Infografis",
+        "12": "Pengumuman Tahap I Infografis",
+        "13": "Tahap II Olimpiade: Semifinal",
+        "14": "Tahap II OSC: Semifinal",
+        "15": "Pengumuman Tahap II OSC",
+        "16": "Pengumuman Tahap II Olimpiade",
+        "17": "Tahap II Infografis: Final",
+        "18": "Tahap III Olimpiade: Final",
+        "19": "Tahap III OSC: Final",
+        "20": "Closing Ceremony"
+    },
+    "timeline-date": {
+        "1": "2 - 30 September 2025",
+        "2": "2 - 30 September 2025",
+        "3": "2 - 30 September 2025",
+        "4": "2 September - 3 Oktober 2025",
+        "5": "19 September 2025",
+        "6": "10 Oktober 2025",
+        "7": "10 Oktober 2025",
+        "8": "11 Oktober 2025",
+        "9": "15 Oktober 2025",
+        "10": "17 Oktober 2025",
+        "11": "18 Oktober 2025",
+        "12": "31 Oktober 2025",
+        "13": "1 - 8 November 2025",
+        "14": "2 November 2025",
+        "15": "7 November 2025",
+        "16": "13 November 2025",
+        "17": "16 November 2025",
+        "18": "28 November 2025",
+        "19": "28 November 2025",
+        "20": "28 November 2025"
+    },
+
+    "faq-quest": {
+        "1": "Apakah mahasiswa boleh mendaftar pada 2 cabang lomba sekaligus?",
+        "2": "Jika sudah melalui sidang skripsi, tapi status kartu mahasiswa masih aktif sampai akhir masa pendaftaran apakah masih boleh mengikuti lomba?",
+        "3": "Bagaimana saya mengetahui bahwa pendaftaran tim saya berhasil dilakukan?",
+        "4": "Bagaimana jika terdapat kendala saat akan mengumpulkan jawaban melalui website?",
+        "5": "Jika belum memiliki kartu tanda mahasiswa, apakah boleh diganti dengan kartu identitas lainnya?",
+        "6": "Apakah peserta diperbolehkan mengganti anggota tim dalam tahapan perlombaan?",
+        "7": "Apakah diperbolehkan jika dalam satu tim terdiri dari 2 anggota yang berasal dari jurusan berbeda?",
+        "8": "Bagaimana jika kami memiliki kesulitan atau pertanyaan lain selama proses pendaftaran?"
+    },
+    "faq-ans": {
+        "1": "Mahasiswa diperbolehkan mendaftar pada kedua cabang lomba sekaligus, dengan catatan jika keduanya masuk final hanya boleh memilih salah satu lomba saja.",
+        "2": "Peserta diharuskan berstatus mahasiswa aktif sampai kegiatan POISSON berakhir.",
+        "3": "Peserta bisa mengecek notifikasi di email yang didaftarkan atau melihat status akun di website.",
+        "4": "Jawaban dapat dikirimkan melalui email POISSON dan konfirmasi kepada narahubung perlombaan terkait.",
+        "5": "Boleh menggunakan kartu atau surat tanda mahasiswa yang menyatakan bahwa benar peserta merupakan mahasiswa aktif di perguruan tinggi.",
+        "6": "Peserta tidak diperbolehkan mengganti atau menukar anggota tim.",
+        "7": "Boleh. Asalkan dalam satu tim tersebut berasal dari perguruan tinggi yang sama.",
+        "8": "Silakan hubungi kami melalui contact person."
+    },
+
+    "gallery-title": {
+        "1": "POISSON 2021",
+        "2": "POISSON 2021",
+        "3": "POISSON 2021",
+        "4": "POISSON 2022",
+        "5": "POISSON 2022",
+        "6": "POISSON 2022",
+        "7": "POISSON 2023",
+        "8": "POISSON 2023",
+        "9": "POISSON 2023"
+    },
+
+    "faq": {
+        "description": "Semua yang harus kamu ketahui"
+    }
+}

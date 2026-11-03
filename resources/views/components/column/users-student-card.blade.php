@@ -1,0 +1,1 @@
+@livewire('misc.modal-image', ['img' => $row->student_card_url], key($row->id))

@@ -1,0 +1,1 @@
+startTimer=function(t,e){var n,r,a,c=t;setInterval((function(){n=parseInt(c/3600,10),r=parseInt(c/60%60,10),a=parseInt(c%60,10),r=r<10?"0"+r:r,a=a<10?"0"+a:a,e.textContent="".concat(n,":").concat(r,":").concat(a),--c<0&&(c=0)}),1e3)},Livewire.on("timer",(function(t){startTimer(t,document.getElementById("timer"))}));

@@ -1,0 +1,160 @@
+{
+    "comingsoon": {
+        "message": "Stay tuned for something amazing!",
+        "submessage": "While waiting, why don't we check this out!",
+        "subtitle": "Stay tuned for something amazing",
+        "countdown": {
+            "days": "Days",
+            "hours": "Hours",
+            "minutes": "Minutes",
+            "seconds": "Seconds"
+        },
+        "teaser": {
+            "title": "Your Journey Begins Here!",
+            "subtitle": "Watch our teaser and discover the world we've been creating for you"
+        },
+        "cta": {
+            "title": "From the teaser to your moment...",
+            "subtitle": "Make your own scene in our Photobooth",
+            "button": "Let's Go",
+            "loading": "Loading..."
+        }
+    },
+    "landingpage": {
+        "title": "What is ",
+        "intro": "The Poisson Statistics Competition is annual event organized by UKM Forkas (Information Forum and Statistical Studies) in collaboration with BEM Politeknik Statistika STIS. This event consists of three types of competition, namely the Statistics Olympiad for undergraduate students throughout Indonesia (National), the Statistical Infographic competition for undergraduate students in all majors at various universities throughout the world (International), and the Official Statistics Challenge for high school student throughout Indonesia (National)."
+    },
+    "masuk": "Login",
+    "daftar": "Register",
+    "info-selengkapnya": "More Info",
+    "baca-selengkapnya": "Read More",
+    "navlink": {
+        "Home": "Home",
+        "Competitions": "Competitions",
+        "Semnas": "Semnas",
+        "News": "News",
+        "FAQ": "FAQ",
+        "Gallery": "Gallery"
+    },
+    "section-title": {
+        "kompetisi": "COMPETITIONS",
+        "semnas": "NATIONAL SEMINAR",
+        "berita": "NEWS",
+        "timeline": "TIMELINE",
+        "gallery": "GALLERY"
+    },
+    "news": {
+        "unavailable": "News Not Available"
+    },
+
+    "semnas-topic": "The Role of Official Statistics in Building a Digital and Creative Economy Ecosystem for Sustainable Development",
+    "semnas-desc": "The National Seminar on Official Statistics is an annual scientific seminar that has been held by the Politeknik Statistika STIS since 2018, with the aim of generating solution-oriented ideas for various challenges in the field of official statistics and strategic national issues, as well as innovative and adaptive works in response to developments in information technology and data science. The National Seminar on Official Statistics consists of a Call for Papers, parallel seminars, and panel discussions. This event is open to the public free of charge.",
+
+    "STATISTICS OLYMPIAD": "STATISTICS OLYMPIAD",
+    "Menguji pemahaman dan penerapan statistika dalam kompetisi skala nasional": "Testing the understanding and application of statistics in a national scale competition",
+    "STATISTICAL INFOGRAPHIC": "STATISTICAL INFOGRAPHIC",
+    "Representasi visual yang menyajikan informasi kompleks secara ringkas dan mudah dipahami": "Visual representation that presents complex information in a concise and easy-to-understand manner",
+    "OFFICIAL STATISTICS CHALLENGE": "OFFICIAL STATISTICS CHALLENGE",
+    "Pemahaman dalam mengkaji official statistics": "Understanding in examining official statistics",
+
+    "news-date": {
+        "1": "5 June 2023",
+        "2": "10 June 2023",
+        "3": "15 June 2023",
+        "4": "20 June 2023"
+    },
+    "news-title": {
+        "1": "Hybrid Premiere: Opening Ceremony and Preliminary Round of the POISSON 2022 Olympiad",
+        "2": "What's Happening in the Semifinals of the POISSON 2022 Olympiad?",
+        "3": "Finals of the POISSON 2022 Olympiad and Infographics",
+        "4": "Closing Ceremony POISSON 2022 x Fantastic"
+    },
+    "news-desc": {
+        "1": "The National Olympiad and Infographic Week, or POISSON, was officially opened in 2022. The opening of this competition was marked by the POISSON 2022 Opening Ceremony held on Saturday, August 27, 2022. For the first time, POISSON held a hybrid event. The committee, supervising lecturers, and some invitees attended the event in person at the Auditorium of the Polytechnic of Statistics STIS. Meanwhile, all competition participants participated online via Zoom Meeting. The hybrid method was deemed appropriate as the Polytechnic of Statistics STIS students, who were the organizing committee at the time, were already conducting offline lectures on campus, allowing for the joint event to be held on campus. The event started in the morning at 8:00 AM WIB. The event began with an opening by the Master of Ceremony (MC) and a prayer. Then, the Indonesian national anthem was sung. The next part of the event was the speeches. First, a speech and the official opening of the Opening Ceremony by the Deputy Director III of the Polytechnic of Statistics STIS, Mr. Ir. Agus Purwoto, M.Si. Second, a speech from the Chief Organizer of POISSON 2022, Mr. Muhammad Erza Lesmana. Third, a speech from the Student Senate Chairman, represented by Mr. Athoillah Zakky Ramdhani as the Coordinator of Udikbud. Several lecturers who attended the Opening Ceremony included Mr. Dr. Azka Ubaidillah, S.ST., M.Si., as the advisor of UKM Forkas for the 2022/2023 period, and Ms. Siskarossa Ika Oktora, SST, M.Stat, as the representative from the lecturers. After that, the Opening Ceremony was enlivened with performances by the Xbar band and the Excelsior Choir of Polstat STIS. The event continued with announcements regarding the first round of the Statistics Olympiad, which would be held in the afternoon. The POISSON 2022 Opening Ceremony went smoothly. All parties gathered in the auditorium took the time to document the moment by taking group photos. The next agenda was the First Round of the Statistics Olympiad. The first round was conducted online via the POISSON website. Participants downloaded the questions, worked on them within the provided time, and then uploaded their answers to the POISSON website system. The preliminary round went smoothly. All participants completed their tasks well and on time. The website system was secure, and there were no significant issues.",
+        "2": "The implementation of the Statistics Olympiad in the National Olympiad and Infographic Week, or POISSON 2022, has started. The first stage was the preliminary round held on Sunday, August 28, 2022, followed by the semifinal round held on Sunday, September 11, 2022, from 9:00 AM to 11:00 AM WIB. Twenty-five teams advanced to the semifinal round, ready to compete for the five spots in the highly anticipated final round. The semifinal stage was conducted similarly to the preliminary round, with participants working online under the supervision of the committee via Zoom meeting. The event began at 8:00 AM WIB with the opening of the gate for semifinal participants, followed by the opening and prayer. There were announcements about breakout rooms and LO, and then the semifinal round began. During the question session, participants entered the virtual Zoom Meeting rooms according to the previously informed room divisions. The semifinal questions were divided into five grades: grade A, grade B, grade C, grade D, and grade E. Each grade had different weights, with grade A having the highest weight and grade E having the lowest weight. The results of the participants' work were corrected by experienced and excellent judges. Notifications about participants advancing to the final round were announced on the POISSON website and via email and WhatsApp group on Saturday, September 17, 2022. Five teams advanced to the final round: Sukses PKL team from the Polytechnic of Statistics STIS, skuymabarguys team from the Sepuluh November Institute of Technology, Ravenclaw team from IPB University, LeastSq team from the Polytechnic of Statistics STIS, and pure team from the Polytechnic of Statistics STIS. With the end of the semifinal round, the enthusiasm and spirit of the participants increased for the final round, which would be the peak of the competition. The final round presented new challenges for the participants in their efforts to compete for the trophy and the title of the POISSON 2022 Statistics Olympiad champion. This event highlighted the participants' excellence in data processing, uncovering significant trends, and providing valuable insights through statistics.",
+        "3": "After all participants demonstrated their skills in the preliminary and semifinal rounds, they moved on to the next stage, the final round. The participants in the final round were the top five participants in the Olympiad category and the top ten participants in the infographic category. The final round of each competition category was held on Saturday, October 1, 2022. In the statistics Olympiad competition, the finalists were asked to analyze data based on the topics provided by the committee. The data could come from BPS or other official agencies. Participants were given a week to complete the analysis, which they then presented to the judges in the form of a PowerPoint presentation for 15 minutes, followed by a 15-minute question and answer session on the final day. In the final round of the infographic competition, each team prepared a presentation about the infographic they had created. Each team presented for 20 minutes, including the question and answer session. In addition to presenting, the top 10 works and video reels were uploaded to the POISSON Instagram account for the favorite award based on the most likes. The finalists who competed in the final round came from various universities in Indonesia. In the Olympiad category, the five teams that advanced to the final round included UGM and UNS, each with one team, while the other three teams were from the Polytechnic of Statistics STIS. In the infographic category, the 10 teams that competed in the final round included teams from UNS, UGM, Polstat STIS, and other universities. At the next event, the closing ceremony, after the final round, the universities that emerged as overall winners were announced based on the results of the competition in the Olympiad and infographic categories.",
+        "4": "On Sunday, October 2, 2022, the stages of the Statistics Olympiad in the National Olympiad and Infographic Week, or POISSON 2022, had ended since it started on August 27, 2022. The POISSON 2022 Closing Ceremony collaborated with the Polstat STIS Academic and Arts Festival (Fantastis), which included a Charity Concert as part of the 64th Anniversary celebration of Polstat STIS. The event was held in a hybrid format. Finalists, invited guests, and Polstat STIS students could watch the event live at the Polstat STIS Auditorium, while the general public and participants who could not attend in person could watch the live broadcast on the Politeknik Statistika STIS YouTube channel. The opening ceremony started at 12:35 PM WIB by the Master of Ceremony (MC), followed by speeches. After that, the audience enjoyed performances from Polstat STIS arts UKMs, such as the Paradise dance UKM, the Excelsior Choir, and the Xbar band. The event reached its peak with the announcement of the winners of the POISSON 2022 Statistics Olympiad and Infographics competition categories. The third place in the infographic competition was won by the Epsilon team from Polstat STIS, the second place by the X-ponen team from UGM, and the first place by the GedhangKluthuk team from UNS. The favorite infographic award went to the X-ponen team from UGM, with the most likes on the Instagram post @poisson_stis. In the Statistics Olympiad category, the second runner-up was won by the Pure team from Polstat STIS, followed by the first runner-up by the SkuyMabarGuys team from ITS, the third place by the LeastSQ team from Polstat STIS, the second place by the Ravenclaw team from IPB, and the first place by the Sukses PKL team from Polstat STIS. The Best Analyst award was won by the Sukses PKL team from Polstat STIS. Based on the number of teams that advanced to the winners, Polstat STIS won the overall champion title at POISSON 2022. The next agenda was the publication of the donation collection results. The event was then closed by Mr. Yunarso Anang, marking the end of the POISSON 2022 competition series."
+    },
+
+    "timeline-title": {
+        "1": "Statistics Olympiad Registration",
+        "2": "Statistical Infographic Registration",
+        "3": "Official Statistics Challenge Registration",
+        "4": "Infographic Stage I: Preliminary (Work Submission)",
+        "5": "National Seminar (SEMNAS)",
+        "6": "Opening Ceremony",
+        "7": "Olympiad Stage I: Preliminary",
+        "8": "OSC Stage I: Preliminary",
+        "9": "OSC Stage I Announcement",
+        "10": "Olympiad Stage I Announcement",
+        "11": "Top 10 Infographic Announcement",
+        "12": "Infographic Stage I Announcement",
+        "13": "Olympiad Stage II: Semifinal",
+        "14": "OSC Stage II: Semifinal",
+        "15": "OSC Stage II Announcement",
+        "16": "Olympiad Stage II Announcement",
+        "17": "Infographic Stage II: Final",
+        "18": "Olympiad Stage III: Final",
+        "19": "OSC Stage III: Final",
+        "20": "Closing Ceremony"
+    },
+    "timeline-date": {
+        "1": "2 - 30 September 2025",
+        "2": "2 - 30 September 2025",
+        "3": "2 - 30 September 2025",
+        "4": "2 September - 3 October 2025",
+        "5": "19 September 2025",
+        "6": "10 October 2025",
+        "7": "10 October 2025",
+        "8": "11 October 2025",
+        "9": "15 October 2025",
+        "10": "17 October 2025",
+        "11": "18 October 2025",
+        "12": "31 October 2025",
+        "13": "1 - 8 November 2025",
+        "14": "2 November 2025",
+        "15": "7 November 2025",
+        "16": "13 November 2025",
+        "17": "16 November 2025",
+        "18": "28 November 2025",
+        "19": "28 November 2025",
+        "20": "28 November 2025"
+    },
+
+    "faq-quest": {
+        "1": "Can students register for 2 competition category at the same time?",
+        "2": "If the thesis defense has been completed, but the student card is still active until the end of the registration period, can they still participate in the competition?",
+        "3": "How can I know that my team's registration is successful?",
+        "4": "What if there are difficulties in submitting answers through the website?",
+        "5": "If I don't have a student card, can it be replaced with another identification card?",
+        "6": "Are participants allowed to change team members during the competition stages?",
+        "7": "Is it allowed to have 2 team members from different majors in one team?",
+        "8": "What if we encounter difficulties or have other questions during the registration process?"
+    },
+    "faq-ans": {
+        "1": "Students are allowed to register for both competition category at the same time, but if they both reach the final stage, they can only choose one competition to participate in.",
+        "2": "Participants must have an active student status until the end of the POISSON event.",
+        "3": "Participants can check the notification in the registered email or view the account status on the website.",
+        "4": "Answers can be sent via email to POISSON and confirmed with the competition contact person.",
+        "5": "You can use a student card or a letter stating that you are an active student at a university.",
+        "6": "Participants are not allowed to change or swap team members.",
+        "7": "Yes, as long as all team members are from the same university.",
+        "8": "Please contact us through the provided contact person for any difficulties or other questions during the registration process."
+    },
+
+    "gallery-title": {
+        "1": "POISSON 2021",
+        "2": "POISSON 2021",
+        "3": "POISSON 2021",
+        "4": "POISSON 2022",
+        "5": "POISSON 2022",
+        "6": "POISSON 2022",
+        "7": "POISSON 2023",
+        "8": "POISSON 2023",
+        "9": "POISSON 2023"
+    },
+
+    "faq": {
+        "description": "Everything you should know"
+    }
+}
